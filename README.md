@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lehasaS
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning deep learning with python
 - 📫 How to reach me: lehasaseoe77@gmail.com
 <!---
