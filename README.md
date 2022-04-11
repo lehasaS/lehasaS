@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lehasaS
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter development with Dart
+- 🌱 I’m currently learning deep learning with python
 - 📫 How to reach me: lehasaseoe77@gmail.com
 <!---
 lehasaS/lehasaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
