@@ -56,7 +56,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehasaS&layout=compact)](https://github.com/lehasaS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehasaS&layout=compact&theme=vision-friendly-dark)](https://github.com/lehasaS/github-readme-stats)
 
 <!---
 lehasaS/lehasaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
