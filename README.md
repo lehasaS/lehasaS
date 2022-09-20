@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=lehasaS&style=flat-square&color=blue" alt=""/>
     <h1>
       Hey There
@@ -15,6 +14,7 @@
   <a href="https://www.instagram.com/lehasa_s/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  </div>
 </div>
 
 - 👋🏽 Hi, I’m Lehasa Seoe
