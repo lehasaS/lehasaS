@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 - 👋🏽 Hi, I’m Lehasa Seoe
 - 🔐 I’m interested in Cybersecurity
-- 🌱 I’m currently learning deep learning with python
+- 🌱 I’m currently expanding my knowledge and skills in Cybersecurity
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lehasas/)
 
 ---
