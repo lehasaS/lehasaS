@@ -6,14 +6,6 @@
       Hello There!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
-    
-  <a href="https://www.linkedin.com/in/lehasas/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://www.instagram.com/lehasa_s/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   </div>
 </div>
 
@@ -26,11 +18,14 @@
 
 ---
 
+### 🤝 : Connect with me:
+
+<a href=”https://www.linkedin.com/in/lehasas/"><img align=”left” src=”https://www.flaticon.com/free-icons/linkedin" alt=”icon | LinkedIn” width=”21px”/></a>
+
+<a href=”https://www.instagram.com/lehasa_s/"><img align=”left” src=”https://www.flaticon.com/free-icons/instagram" alt=”icon | Instagram” width=”21px”/></a>
+
+
 ### :hammer_and_wrench: Languages and Tools :
-
-
-
-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
