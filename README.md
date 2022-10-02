@@ -51,6 +51,7 @@
 ---
 
 ### :fire: My Stats :
+![Lehasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehasaS&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lehasaS)](https://git.io/streak-stats)
 
 ---
