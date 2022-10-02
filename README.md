@@ -18,11 +18,11 @@
 
 ---
 
-### 🤝 : Connect with me:
-
-<a href=”https://www.linkedin.com/in/lehasas/"><img align=”left” src=”https://www.flaticon.com/free-icons/linkedin" alt=”icon | LinkedIn” width=”21px”/></a>
-
-<a href=”https://www.instagram.com/lehasa_s/"><img align=”left” src=”https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png" alt=”icon | Instagram” width=”21px”/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/lehasas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lehasaseoe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lehasa_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lehasaseoe" height="30" width="40" /></a>
+</p>
 
 
 ### :hammer_and_wrench: Languages and Tools :
