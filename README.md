@@ -20,6 +20,8 @@
 
 ### 🤝 : Connect with me:
 
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+
 <a href=”https://www.linkedin.com/in/lehasas/"><img align=”left” src=”https://www.flaticon.com/free-icons/linkedin" alt=”icon | LinkedIn” width=”21px”/></a>
 
 <a href=”https://www.instagram.com/lehasa_s/"><img align=”left” src=”https://www.flaticon.com/free-icons/instagram" alt=”icon | Instagram” width=”21px”/></a>
