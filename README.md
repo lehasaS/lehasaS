@@ -14,7 +14,7 @@
 ### :man_technologist: About Me :
 - 👋🏽 My name is Lehasa Seoe
 - 🔐 I’m interested in Cybersecurity
-- 🌱 I’m currently expanding my knowledge and skills in Cybersecurity
+- 🌱 I’m currently working as a Cybersecurity Consultant
 
 ---
 
